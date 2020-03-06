@@ -1,0 +1,9 @@
+name_	contigs_db_path	finestructure_clade	SoxCD	SoxAX	SQR	fcc_Sulfide_dehydrogenase	Ni-Fe-Hydrogenase	Formate_dehydrogenase	cbb3	bd	aa3	DNRA_epsiHaoA	Assimilatory_nitrate_reductase	Nap	Nir	Nor	Nos	alpha_chain	beta_chain	Carbonic_anhydrase
+KS003	00-raw-genomes/KS003.db	a	1	1	1	0	0	1	1	1	0	0	1	1	1	1	1	1	1	1
+KS006	00-raw-genomes/KS006.db	a	1	1	1	0	0	1	1	1	0	0	1	1	1	1	1	1	1	1
+KS009	00-raw-genomes/KS009.db	a	1	1	1	0	0	1	1	1	0	0	1	1	1	1	1	1	1	1
+KS015	00-raw-genomes/KS015.db	a	1	1	1	0	0	1	1	1	0	0	1	1	1	1	0	1	1	1
+KS017	00-raw-genomes/KS017.db	a	1	1	1	0	0	1	1	1	0	0	1	1	1	1	1	1	1	1
+KS025	00-raw-genomes/KS025.db	b	1	1	1	0	1	1	1	1	0	0	1	1	0	0	0	1	1	0
+KS027	00-raw-genomes/KS027.db	b	1	1	1	0	0	1	1	1	0	0	1	0	0	0	0	1	1	0
+KS005	00-raw-genomes/KS005.db	b	1	1	1	0	0	1	1	1	0	0	1	1	0	0	0	1	1	0
